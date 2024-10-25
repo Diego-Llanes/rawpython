@@ -1,3 +1,3 @@
-from pbar import pbar
+from .pbar import pbar
 
 __all__ = ['pbar']

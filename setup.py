@@ -9,7 +9,8 @@ with open(readme) as f:
 setup(
     name='rawpython',
     version='0.1',
-    description=description,
+    description="a library for people who hate libraries",
+    long_description=description,
     author='Diego Llanes',
     author_email='rawpython@diegollanes.com',
 )
